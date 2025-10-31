@@ -5,3 +5,26 @@ __pycache__/
 *.pyc
 Thumbs.db
 desktop.ini
+
+# Agregado automáticamente por FreeCAD Git Macro
+# Archivos de respaldo de FreeCAD
+*.FCBak
+*.FCStd1
+*.FCStd2
+*.FCStd3
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*~
